@@ -6,7 +6,7 @@ Segunda
 -> Relatório
 
 Terça
--> Ativiade site PI
+-> Atividade site PI
 -> Pratica de logica em rust
 
 Quarta
