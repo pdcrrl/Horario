@@ -18,8 +18,8 @@
 | | |
 | :---: | :---: |
 | segunda | monitoria londrinense tech + relatório |
-| terça | atividades de sistemas digitais / matrizes |
+| terça | atividades de sistemas digitais / algebra linear |
 | quarta | pensamento computacional + relatório |
-| quinta | atividade 6 POO |
+| quinta | atividade 6 POO + resolvendo problemas do linux |
 
 </div>
